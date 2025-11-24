@@ -1,0 +1,5 @@
+equipo_id,nombre_equipo,categoria,estado_actual,fecha_registro,descripcion
+1,Laptop Dell XPS,laptops,DISPONIBLE,2025-03-01,Core i7 16GB
+2,Camara Canon R6,camaras,DISPONIBLE,2025-03-05,Full frame
+3,Dron DJI Mavic,drones,MANTENIMIENTO,2025-04-10,Requiere calibracion
+4,acer25,1,DISPONIBLE,2025-11-22,la mejor
